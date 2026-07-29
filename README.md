@@ -1,15 +1,63 @@
-<h1 align="center">Hi 👋, my name is Behram Bazo</h1>
-<h3 align="center">I specialize in frontend development with Angular. You can find more information about my skills below:</h3>
+<h1 align="center">Hi, I'm Behram Bazo 👋</h1>
+<h3 align="center">AI Product Engineering Lead · AI Systems · Automation · Product Architecture</h3>
 
-- 💬 Ask me about **Angular, RxJS, NgRx**
-
-- 📫 How to reach me **bazobehram@hotmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/bazobehram/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bazobehram/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14884060" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14884060" height="30" width="40" /></a>
+<p align="center">
+  I design and build AI-enabled products, automation systems, and scalable software architectures—from early product concepts to production-ready systems.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/bazobehram/">LinkedIn</a> ·
+  <a href="mailto:bazobehram@hotmail.com">Email</a> ·
+  <a href="https://stackoverflow.com/users/14884060">Stack Overflow</a>
+</p>
+
+---
+
+## What I focus on
+
+- **AI product engineering** — turning AI capabilities into useful, reliable products
+- **Agentic and local AI systems** — governed workflows, tool use, evidence chains, and on-premise models
+- **Automation architecture** — connecting software, data, and decision processes into maintainable systems
+- **Product and system design** — shaping architecture, interfaces, constraints, and technical direction
+- **Technical leadership** — guiding implementation while staying close to architecture and code
+
+## Current work
+
+- **Devim** — research toward a Turkish-first alternative intelligence architecture centered on concept formation, contradiction, and evidence-driven revision
+- **Critical Strategy / Critical Social** — evidence-first market intelligence, autonomous publishing, and AI-assisted analysis systems
+- **Local AI infrastructure** — private, auditable AI services using open models and controlled execution environments
+- **Enterprise product engineering** — scalable frontend and full-stack systems for complex business workflows
+
+## Technology
+
+**AI, automation, and backend**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+
+**Product engineering**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
+![NgRx](https://img.shields.io/badge/NgRx-BA2BD2?style=flat-square&logo=redux&logoColor=white)
+
+**Data, infrastructure, and Web3**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3-1A1A1A?style=flat-square&logo=ethereum&logoColor=white)
+
+## Engineering principles
+
+> **No evidence, no approval. Trust the chain, not the chat.**
+
+I care about systems that are explainable, testable, maintainable, and genuinely useful—not AI features added only for appearance.
