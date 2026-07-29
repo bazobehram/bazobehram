@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Behram Bazo 👋</h1>
-<h3 align="center">AI Product Engineering Lead · AI Systems · Automation · Product Architecture</h3>
+<h3 align="center">Software Developer · AI Systems · Automation · Product Engineering</h3>
 
 <p align="center">
   I design and build AI-enabled products, automation systems, and scalable software architectures—from early product concepts to production-ready systems.
@@ -19,7 +19,7 @@
 - **Agentic and local AI systems** — governed workflows, tool use, evidence chains, and on-premise models
 - **Automation architecture** — connecting software, data, and decision processes into maintainable systems
 - **Product and system design** — shaping architecture, interfaces, constraints, and technical direction
-- **Technical leadership** — guiding implementation while staying close to architecture and code
+- **Technical ownership** — contributing to architecture, implementation, and product direction
 
 ## Current work
 
