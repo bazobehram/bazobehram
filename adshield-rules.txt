@@ -11,3 +11,24 @@ ads.tiktok.com
 an.facebook.com
 ads.facebook.com
 pixel.facebook.com
+
+# Additional Pangle / TikTok advertising and analytics
+pangle-b.io
+tiktokpangle.us
+tiktokpangle-cdn-us.com
+pangle-ads.com
+analytics.pangle-ads.com
+analytics.tiktok.com
+analytics-ipv6.tiktokw.us
+
+# Advertising / measurement networks
+doubleclick.net
+googleads.g.doubleclick.net
+ad.doubleclick.net
+pagead2.googlesyndication.com
+googleadservices.com
+app-measurement.com
+
+# Meta tracking (potential app feature impact)
+connect.facebook.net
+
