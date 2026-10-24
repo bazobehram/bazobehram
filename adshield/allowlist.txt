@@ -1,0 +1,8 @@
+# Preserve shopping websites and core services
+n11.com
+hepsiburada.com
+trendyol.com
+amazon.com
+amazon.com.tr
+github.com
+raw.githubusercontent.com
