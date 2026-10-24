@@ -1,0 +1,13 @@
+# AdShield Personal Blocklist
+# Pangle / TikTok Ad Network
+pangle.io
+pglstatp-toutiao.com
+i18n-pglstatp.com
+sf16-static.i18n-pglstatp.com
+mon.byteoversea.com
+ads.tiktok.com
+
+# Meta Audience Network
+an.facebook.com
+ads.facebook.com
+pixel.facebook.com
