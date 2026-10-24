@@ -16,7 +16,7 @@ SOURCES = {
     "HaGeZi Multi LIGHT": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/light-onlydomains.txt",
     "StevenBlack unified hosts": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts",
 }
-HOST = re.compile(r"^(?:[a-z0-9](?:[a-z0-9-]{0,61}[a-z0-9])?\\.)+[a-z]{2,63}$", re.I)
+HOST = re.compile(r"^(?:[a-z0-9](?:[a-z0-9-]{0,61}[a-z0-9])?\.)+[a-z]{2,63}$", re.I)
 
 def normalize(line: str) -> str | None:
     line = line.strip().lower()
