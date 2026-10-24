@@ -32,3 +32,87 @@ app-measurement.com
 # Meta tracking (potential app feature impact)
 connect.facebook.net
 
+# Google advertising delivery
+securepubads.g.doubleclick.net
+pubads.g.doubleclick.net
+googleads4.g.doubleclick.net
+tpc.googlesyndication.com
+partner.googleadservices.com
+adservice.google.com
+
+# Amazon advertising
+amazon-adsystem.com
+aax.amazon-adsystem.com
+
+# Programmatic ad exchanges
+adnxs.com
+ib.adnxs.com
+secure.adnxs.com
+rubiconproject.com
+fastlane.rubiconproject.com
+pubmatic.com
+ads.pubmatic.com
+openx.net
+servedbyopenx.com
+u.openx.net
+casalemedia.com
+contextweb.com
+bidswitch.net
+adform.net
+track.adform.net
+indexww.com
+adsrvr.org
+match.adsrvr.org
+33across.com
+lijit.com
+
+# Retargeting and recommendation ads
+criteo.net
+bidder.criteo.com
+static.criteo.net
+widgets.outbrain.com
+trc.taboola.com
+cdn.taboola.com
+smartadserver.com
+ssp.smartadserver.com
+yieldmo.com
+revcontent.com
+widgets.revcontent.com
+servicer.mgid.com
+
+# Mobile and in-app ad SDKs
+ads.inmobi.com
+smaato.net
+ads.smaato.net
+unityads.unity3d.com
+auction.unityads.unity3d.com
+d.applovin.com
+ms.applovin.com
+supersonicads.com
+ads.vungle.com
+live.chartboost.com
+ads30.adcolony.com
+tapjoyads.com
+ws.tapjoyads.com
+mtgmintegral.com
+sdk.mtgmintegral.com
+startappservice.com
+startappexchange.com
+inner-active.mobi
+ads.inner-active.mobi
+
+# Ad measurement and cross-site tracking
+mathtag.com
+pixel.mathtag.com
+demdex.net
+dpm.demdex.net
+scorecardresearch.com
+sb.scorecardresearch.com
+2o7.net
+quantserve.com
+pixel.quantserve.com
+bluekai.com
+tags.bluekai.com
+exelator.com
+krxd.net
+rlcdn.com
